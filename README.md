@@ -6,7 +6,7 @@ The project is a walkthrough of the basic Microsoft Azure Cloud services. Micros
 <ul>
   <li>Microsoft Azure Platform</li>
 </ul>  
-<br />
+<br/>
 <h2>Program walk-through:</h2>
 <h4><b>"AZURE RESOURCE GROUP"</b></h4>
 A Resource group is a container that holds related resources for an Azure solution. It helps for better management and deployment. During creation, you need to give the resource group <b>a unique name</b>. You must also choose <b>a region</b> that will hold the resources.
@@ -17,5 +17,13 @@ A Resource group is a container that holds related resources for an Azure soluti
 <h4><b>"STORAGE ACCOUNT"</b></h4>
 This is a method of creating storage service for storing data in Azure. You need to give it <b>a unique name</b> and ensure it is created in the same <b>region</b> as the <b>resource group</b> you are using.
 <br/>
-<img src="https://i.imgur.com/8SGE2SG.png" height="40%" width="70%" alt="Storage account"/>
 <img src="https://i.imgur.com/HRXvRgF.png" height="40%" width="70%" alt="Storage account"/>
+<h4><b>"AZURE VIRTUAL MACHINE (VM) CREATION"</b></h4>
+Azure VM is a computing service that allows users to host their applications or systems in the cloud on Windows and Linux operating systems.
+<br/>
+<br/>
+<b>"WINDOWS 10 VM"</b> is created in the resource group. This machine would be accessed using <b>Remote Desktop</b> from another host machine.
+<img src="https://i.imgur.com/dX6cYMF.png" height="40%" width="70%" alt="Windows 10 Machine"/>
+<br/>
+<b>"LINUX (UBUNTU) VM"</b> is created in the resource group. This machine would be accessed using <b>SSH (Secured Shell) protocol via PowerShell</b> from another host machine.
+<img src="https://i.imgur.com/sZ6eKFZ.png" height="40%" width="70%" alt="Linux  Machine"/>
