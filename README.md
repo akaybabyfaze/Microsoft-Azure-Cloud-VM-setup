@@ -14,7 +14,8 @@ A Resource group is a container that holds related resources for an Azure soluti
 <img src="https://i.imgur.com/sLKoCCC.png" height="40%" width="70%" alt="Resource group"/>
 <img src="https://i.imgur.com/fBqym8F.png" height="40%" width="70%" alt="Resource group"/>
 <img src="https://i.imgur.com/aaWQL7B.png" height="40%" width="70%" alt="Resource group"/>
-<h4><b>"STORAGE ACCOUNT"</b></h4> This is a method of creating storage service for storing data in Azure. You need to give it <b>a unique name</b> and ensure it is created in the same <b>region</b> as the <b>resource group</b> you are using.
+<h4><b>"STORAGE ACCOUNT"</b></h4>
+This is a method of creating storage service for storing data in Azure. You need to give it <b>a unique name</b> and ensure it is created in the same <b>region</b> as the <b>resource group</b> you are using.
 <br/>
 <img src="https://i.imgur.com/8SGE2SG.png" height="40%" width="70%" alt="Storage account"/>
 <img src="https://i.imgur.com/HRXvRgF.png" height="40%" width="70%" alt="Storage account"/>
