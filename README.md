@@ -28,12 +28,12 @@ Azure VM is a computing service that allows users to host their applications or 
 <b>"LINUX (UBUNTU) VM"</b> is created in the resource group. This machine would be accessed using <b>SSH (Secured Shell) protocol via PowerShell</b> from the client machine.
 <img src="https://i.imgur.com/sZ6eKFZ.png" height="40%" width="70%" alt="Linux Machine"/>
 <br/>
-<b>"REMOTE DESKTOP PROTOCOL(RDP)"</b> It is a protocol that enables users to remotely access and control physical and virtual devices running on Windows from Azure.
+<b>"REMOTE DESKTOP PROTOCOL(RDP)"</b> It is a protocol that enables a user to remotely access and control physical and virtual devices running on Windows from Azure.
 <br/>
 <br/>
 <img src="https://i.imgur.com/jY9T1is.png" height="30%" width="60%" alt="Remote Desktop"/>
 <b>"SECURE SHELL PROTOCOL(SSH)"</b> 
-This protocol will allow secure remote login from the client machine to another machine or server machine. It is does not the graphical user interface (GUI) like RDP.
+This protocol allows secure remote login from a client machine to another machine or server. It does not have the graphical user interface (GUI) like the RDP.
 <br/>
 <br/>
 <img src="https://i.imgur.com/iUUxnu1.jpg" height="40%" width="70%" alt="SSH"/>
