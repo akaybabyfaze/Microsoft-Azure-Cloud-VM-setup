@@ -31,7 +31,7 @@ Azure VM is a computing service that allows users to host their applications or 
 <b>"REMOTE DESKTOP PROTOCOL(RDP)"</b> It is a protocol that enables a user to remotely access and control physical and virtual devices running on Windows from Azure.
 <br/>
 <br/>
-<img src="https://i.imgur.com/jY9T1is.png" height="30%" width="60%" alt="Remote Desktop"/>
+<img src="https://i.imgur.com/Bgy8fiM.png" height="30%" width="60%" alt="Remote Desktop"/>
 <b>"SECURE SHELL PROTOCOL(SSH)"</b> 
 This protocol allows secure remote login from a client machine to another machine or server. It does not have the graphical user interface (GUI) like the RDP.
 <br/>
